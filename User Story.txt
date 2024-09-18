@@ -1,0 +1,11 @@
+The users are the admin and the app use. The app user is anyone who enjoys music but might not want to come up with their own playlist at the moment and would like some songs to suit their mood..
+
+A logged in user can view playlists
+A logged in user can add songs
+A logged in user can remove songs
+
+An admin can remove playlists
+An admin can add playlists
+As an admin I can remove or add songs and view playlists.
+
+In the future I would like to implement an export tool so you can listen to the playlist on your favorite streaming site or device.
